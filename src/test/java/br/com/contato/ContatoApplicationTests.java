@@ -1,4 +1,4 @@
-package br.com.contato.contato;
+package br.com.contato;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
